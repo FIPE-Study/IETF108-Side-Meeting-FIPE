@@ -11,7 +11,7 @@ The goal of this inofficial side meeting is to make progress on defining researc
 
 ### **Tentative Agenda**
 
-1. Multi-Semantic Addressing Enable Interconnection of IOT and Heterogeneous Networks ( 25 mins + 15mins )
+1. Different addressing semantics ( 25 mins + 15mins )
 - Various networks, such as  IoT networks, industry networks, satellite networks, etc.
 - Interconnection of heterogeneous networks
 - Challenges/Problems to Internet Protocols
