@@ -6,8 +6,6 @@ Time:  07/31/2020, 15:00 - 16:30 UTC (extend to 17:00 if needed)
 
 Where: Webex
 
-See:   https://etherpad.wikimedia.org/p/v108-fipe-side-meeting
-
 ### **Goal**
 The goal of this inofficial side meeting is to make progress on defining research challenges and problems related to Future Internet Protocol Evolution (FIPE) that are not already better covered by other IRTF RG. We welcome any proposals and discussions to that end. 
 
