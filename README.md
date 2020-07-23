@@ -1,8 +1,11 @@
 ### **Meeting**
 Title: Future Internet Protocol Evolution (FIPE)
 Time:  07/31/2020, 15:00 - 16:30 UTC (extend to 17:00 if needed)
-                                   Participants can join up to 15 minutes earlier, e.g.: for webex testing
+                                  
+                                  Participants can join up to 15 minutes earlier, e.g.: for webex testing
+
 Where: Webex
+
 See:   https://etherpad.wikimedia.org/p/v108-fipe-side-meeting
 
 ### **Goal**
