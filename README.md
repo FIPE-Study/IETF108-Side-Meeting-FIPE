@@ -23,6 +23,7 @@ Content:
 - Challenges/Problems to Internet Protocols
 - ...
 
+
 2. E2E high-precision on latency assurance and multi-channel collaboration 
 
 Speaker: Ning Wang (20 mins) University of Surrey
@@ -31,6 +32,7 @@ Content:
 - New services, such as online meeting, 3D, VR/AR, holy graphic, etc. The critical payloads should affirmatively arrive “on time”
 - Challenges/Problems on IP layer, transport layer, data plane, etc.
 - ...
+
 
 3. Priority and assumptions of IP-layer security
 
