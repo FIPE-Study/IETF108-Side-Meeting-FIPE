@@ -15,6 +15,7 @@ The goal of this inofficial side meeting is to make progress on defining researc
 1. Deployment incentives, interworking, and gateways between networks with different addressing semantics ( 25 mins + 15mins )
 
 Speaker: Daniel King (25 mins) Lancaster University
+         
          Stewart Bryant (15mins) University of Surrey & Futurewei
 
 Content:
