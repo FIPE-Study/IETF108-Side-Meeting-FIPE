@@ -6,6 +6,8 @@ Time:  07/31/2020, 15:00 - 16:30 UTC (extend to 17:00 if needed)
                                   Participants can join up to 15 minutes earlier, e.g.: for webex testing
 
 Where: 	https://fipe.my.webex.com/fipe.my-en/j.php?MTID=m17ae93edead035f7c511e8bdcf8c9e1e
+Meeting number (access code): 163 598 0683 
+Meeting password: FIPE2020 (34732020 from phones and video systems)
 
 
 ### **Goal**
