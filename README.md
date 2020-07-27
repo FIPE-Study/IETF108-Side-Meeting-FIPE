@@ -38,13 +38,3 @@ Content:
 - ...
 
 
-3. Priority and assumptions of IP-layer security
-
-Speaker: TBD ( 20 mins )
-
-Content: 
-- Conflicted requirements of privacy protection vs. network accountability
-- Generic security in network-layer vs. application-layer
-- More impact of security middle box for interworking
-- ...
-
