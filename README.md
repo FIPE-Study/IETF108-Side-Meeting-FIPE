@@ -28,7 +28,7 @@ Content:
 - Challenges/Problems to Internet Protocols
 - ...
 
-2. E2E high-precision on latency assurance and multi-channel cooperation 
+2. E2E high-precision on latency assurance and multi-channel coordination 
 
 Speaker: Ning Wang (20 mins) from University of Surrey
 
