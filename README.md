@@ -22,7 +22,6 @@ The goal of this inofficial side meeting is to make progress on defining researc
 Speaker:
 
 - Daniel King (20 mins), Lancaster University
-
 - Stewart Bryant (15 mins), University of Surrey and Futurewei
 
 Content:
@@ -35,7 +34,6 @@ Content:
 Speaker:
 
 - Ning Wang (20 mins), University of Surrey
-
 - Hemanth Kumar Ravuri (15 mins), Ghent University        
          
 Content: 
