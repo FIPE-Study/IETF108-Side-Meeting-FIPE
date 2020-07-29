@@ -20,7 +20,7 @@ The goal of this inofficial side meeting is to make progress on defining researc
 1. Deployment incentives, interworking, and gateways between networks with different addressing semantics
 
 Speaker: Daniel King (25 mins) from Lancaster University; 
-         Stewart Bryant (15mins) from University of Surrey & Futurewei
+         Stewart Bryant (15 mins) from University of Surrey & Futurewei
 
 Content:
 - Various networks, such as  IoT networks, industry networks, satellite networks, etc.
@@ -31,8 +31,10 @@ Content:
 2. E2E high-precision on latency assurance and multi-channel coordination 
 
 Speaker: Ning Wang (20 mins) from University of Surrey
+         Hemanth Kumar Ravuri  (15 mins) from Ghent University        
+         
+Content: 
 
-Content:
 - New services, such as online meeting, 3D, VR/AR, holy graphic, etc. The critical payloads should affirmatively arrive “on time”
 - Challenges/Problems on IP layer, transport layer, data plane, etc.
 - ...
