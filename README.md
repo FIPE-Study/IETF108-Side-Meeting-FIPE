@@ -37,5 +37,5 @@ Speaker:
 - Hemanth Kumar Ravuri (20 mins), Ghent University        
          
 Content: 
-- New services, such as online meeting, 3D, VR/AR, holy graphic, etc. 
+- New services, such as online meeting, 3D, VR/AR, holographic, etc. 
 - Challenges/Problems on IP layer, transport layer, data plane, etc.
