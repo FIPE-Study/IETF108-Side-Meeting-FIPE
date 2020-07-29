@@ -21,8 +21,8 @@ The goal of this inofficial side meeting is to make progress on defining researc
 
 Speaker:
 
-- Daniel King (20 mins), Lancaster University
-- Stewart Bryant (15 mins), University of Surrey and Futurewei
+- Daniel King (25 mins), Lancaster University
+- Stewart Bryant (20 mins), University of Surrey and Futurewei
 
 Content:
 - Various networks, such as IoT networks, industry networks, satellite networks, etc.
@@ -34,7 +34,7 @@ Content:
 Speaker:
 
 - Ning Wang (20 mins), University of Surrey
-- Hemanth Kumar Ravuri (15 mins), Ghent University        
+- Hemanth Kumar Ravuri (20 mins), Ghent University        
          
 Content: 
 - New services, such as online meeting, 3D, VR/AR, holy graphic, etc. 
