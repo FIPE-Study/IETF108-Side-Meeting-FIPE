@@ -31,6 +31,7 @@ Content:
 2. E2E high-precision on latency assurance and multi-channel coordination 
 
 Speaker: Ning Wang (20 mins) from University of Surrey
+         
          Hemanth Kumar Ravuri  (15 mins) from Ghent University        
          
 Content: 
