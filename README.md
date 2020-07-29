@@ -15,28 +15,23 @@ Meeting password: FIPE2020 (34732020 from phones and video systems)
 ### **Goal**
 The goal of this inofficial side meeting is to make progress on defining research challenges and problems related to Future Internet Protocol Evolution (FIPE) that are not already better covered by other IRTF RG. We welcome any proposals and discussions to that end. 
 
-### **Tentative Agenda**
+### **Agenda**
 
 1. Deployment incentives, interworking, and gateways between networks with different addressing semantics
 
-Speaker: Daniel King (25 mins) from Lancaster University; 
-         Stewart Bryant (15 mins) from University of Surrey & Futurewei
+15:00-15:20 Daniel King, Lancaster University
+15:25-15:40 Stewart Bryant, University of Surrey and Futurewei
 
 Content:
-- Various networks, such as  IoT networks, industry networks, satellite networks, etc.
+- Various networks, such as IoT networks, industry networks, satellite networks, etc.
 - Interconnection of heterogeneous networks
 - Challenges/Problems to Internet Protocols
-- ...
 
 2. E2E high-precision on latency assurance and multi-channel coordination 
 
-Speaker: Ning Wang (20 mins) from University of Surrey;
-         Hemanth Kumar Ravuri  (15 mins) from Ghent University        
+15:45-16:05 Ning Wang, U of Surrey
+16:05-16:20 Hemanth Kumar Ravuri, Ghent University        
          
 Content: 
-
-- New services, such as online meeting, 3D, VR/AR, holy graphic, etc. The critical payloads should affirmatively arrive “on time”
+- New services, such as online meeting, 3D, VR/AR, holy graphic, etc. 
 - Challenges/Problems on IP layer, transport layer, data plane, etc.
-- ...
-
-
