@@ -30,6 +30,7 @@ Speaker: Daniel King, Lancaster University
 
 Speaker: Stewart Bryant, University of Surrey and Futurewei
 
+
 **Part2: E2E high-precision on latency assurance and multi-channel coordination** 
 - New services, such as online meeting, 3D, VR/AR, holographic, etc. 
 - Challenges/Problems on IP layer, transport layer, data plane, etc.
