@@ -32,6 +32,7 @@ Content:
 - Interconnection of heterogeneous networks
 - Challenges/Problems to Internet Protocols
 
+
 2. E2E high-precision on latency assurance and multi-channel coordination 
 
 2.1 New Requirements for Time-Engineered Holographic Teleportation over Internet (20 mins)
