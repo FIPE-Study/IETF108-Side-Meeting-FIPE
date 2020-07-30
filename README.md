@@ -19,10 +19,11 @@ The goal of this unofficial side meeting is to make progress on defining researc
 
 1. Deployment incentives, interworking, and gateways between networks with different addressing semantics
 
-Speaker:
+1.1 Routing and Traffic Engineering Challenges for Space-based Networking in Future Internet (25 mins)
+Speaker: Daniel King, Lancaster University
 
-- Daniel King (25 mins), Lancaster University
-- Stewart Bryant (20 mins), University of Surrey and Futurewei
+1.2 The Multi-semantics of Addressing (20 mins)
+Speaker: Stewart Bryant, University of Surrey and Futurewei
 
 Content:
 - Various networks, such as IoT networks, industry networks, satellite networks, etc.
@@ -31,10 +32,11 @@ Content:
 
 2. E2E high-precision on latency assurance and multi-channel coordination 
 
-Speaker:
+2.1 New Requirements for Time-Engineered Holographic Teleportation over Internet (20 mins)
+Speaker: Ning Wang, University of Surrey
 
-- Ning Wang (20 mins), University of Surrey
-- Hemanth Kumar Ravuri (20 mins), Ghent University        
+2.2 Truly Immersive Volumetric Media Delivery (20 mins)
+Speaker: Hemanth Kumar Ravuri, Ghent University        
          
 Content: 
 - New services, such as online meeting, 3D, VR/AR, holographic, etc. 
