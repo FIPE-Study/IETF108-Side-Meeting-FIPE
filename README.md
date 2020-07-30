@@ -17,7 +17,7 @@ The goal of this unofficial side meeting is to make progress on defining researc
 
 ### **Agenda**
 
-1. Deployment incentives, interworking, and gateways between networks with different addressing semantics
+Part1: Deployment incentives, interworking, and gateways between networks with different addressing semantics
 - Various networks, such as IoT networks, industry networks, satellite networks, etc.
 - Interconnection of heterogeneous networks
 - Challenges/Problems to Internet Protocols
@@ -30,7 +30,7 @@ Speaker: Daniel King, Lancaster University
 
 Speaker: Stewart Bryant, University of Surrey and Futurewei
 
-2. E2E high-precision on latency assurance and multi-channel coordination 
+Part2: E2E high-precision on latency assurance and multi-channel coordination 
 - New services, such as online meeting, 3D, VR/AR, holographic, etc. 
 - Challenges/Problems on IP layer, transport layer, data plane, etc.
 
