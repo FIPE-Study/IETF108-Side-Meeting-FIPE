@@ -13,7 +13,7 @@ Meeting number (access code): 163 598 0683
 
 Meeting password: FIPE2020 (34732020 from phones and video systems)
 
-Etherpad URL: https://etherpad.wikimedia.org/p/v108-apn-side-meeting
+Etherpad URL: https://etherpad.wikimedia.org/p/v108-fipe-side-meeting
 
 ### **Goal**
 The goal of this unofficial side meeting is to make progress on defining research challenges and problems related to Future Internet Protocol Evolution (FIPE) that are not already better covered by other IRTF RG. We welcome any proposals and discussions to that end. 
