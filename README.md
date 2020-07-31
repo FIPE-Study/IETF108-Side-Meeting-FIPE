@@ -9,9 +9,9 @@ Time:  07/31/2020, 16:00 - 17:30 UTC (extend to 18:00 if needed)
 
 Where: 	https://fipe.my.webex.com/fipe.my-en/j.php?MTID=m17ae93edead035f7c511e8bdcf8c9e1e
 
-Meeting number (access code): 163 598 0683 
+Webex Meeting number (access code): 163 598 0683 
 
-Meeting password: FIPE2020 (34732020 from phones and video systems)
+Webex Meeting password: FIPE2020 (34732020 from phones and video systems)
 
 Etherpad URL: https://etherpad.wikimedia.org/p/v108-fipe-side-meeting
 
