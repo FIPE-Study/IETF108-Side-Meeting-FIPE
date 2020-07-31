@@ -1,7 +1,7 @@
 ### **Meeting**
 Title: Future Internet Protocol Evolution (FIPE)
 
-Chairs: Burjiz Pithawala, Elisity Inc
+Chair: Burjiz Pithawala, Elisity Inc
 
 Time:  07/31/2020, 16:00 - 17:30 UTC (extend to 18:00 if needed)
                                   
